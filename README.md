@@ -47,7 +47,7 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-<h1 align="center">👉Terimakasih Sudah Mampir👈</h1>
+<h1 align="center">🙏Terimakasih Sudah Mampir🙏</h1>
 
 
 ### You Can Connect Or Follow Me :
