@@ -1,5 +1,9 @@
-# Halo Nama Saya Fauzan Zakaria Hermansah - A.K.A [Fauzan](https://www.instagram.com/fauzan.hermansah) 👋
-# Sekarang Saya Kuliah Di [Universitas Brawijaya, Fakultas Ilmu Komputer, Prodi Teknologi Informasi](https://filkom.ub.ac.id/s1-ti/) 
+# Halooo!!!, My Name Fauzan Zakaria Hermansah - A.K.A [Fauzan](https://www.instagram.com/fauzan.hermansah) 👋
+## About Me:
+- 🏢 I’m currently studying at [Brawijaya University-Information Technology](https://filkom.ub.ac.id/s1-ti/) 
+- 🖥️ I’m currently learning Java, HTML, CSS, JS, SQL
+- 🎮 My hobby is playing games
+- ✉️ How to reach me : fauzanzakaria449@gmail.com
 
 <h1 align="center">✨Kumpulan Tugas-Tugas PEMLAN✨</h1>
 
@@ -42,3 +46,14 @@
 [📝 : Exception Handling Pak Joe](https://github.com/fauzanzakaria/UAP-KINERJA/tree/main/Tugas8)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+<h1 align="center">👉Terimakasih Sudah Mampir👈</h1>
+
+
+### You Can Connect Or Follow Me :
+<a href="https://instagram.com/fauzan.hermansah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fauzan.hermansah" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" /></a>
